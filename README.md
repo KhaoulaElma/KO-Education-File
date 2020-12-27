@@ -5,7 +5,7 @@ KO-Education
 
 ~~~~~~~Team~~~~~~~
 LAHSSINI Omar
-ELMANSOURI Khaoula
+EL MANSOURI Khaoula
 
 ~~~~~~~Technologie de projet~~~~~~~
 *HTML5
